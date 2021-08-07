@@ -2,7 +2,7 @@
   "name-web":"minecraft launcher download",
   "author":"minecraft launcher download",
   "remove-comment-html":true,
-  "target":"https://www.letsplayindex.com/video/download-minecraft-1171-launcher-free-with-multiplayer-pc-_SihJ1mpSts",
+  "target":"https://vlauncher.net/10-official-launcher.html",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -19,7 +19,7 @@
   ],
   "costom-element-remove":[
     {
-      "target":"www.letsplayindex.com/video/download-minecraft-1171-launcher-free-with-multiplayer-pc-_SihJ1mpSts",
+      "target":"vlauncher.net/10-official-launcher.html",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",

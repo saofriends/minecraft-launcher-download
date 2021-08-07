@@ -1,5 +1,5 @@
 User-agent: *
 Allow: 
 
-Sitemap: https://minecraft-launcher-download.herokuapp.com/host-https-www.letsplayindex.com/sitemap.xml
+Sitemap: https://minecraft-launcher-download.herokuapp.com/host-https-vlauncher.net/sitemap.xml
 Sitemap: https://minecraft-launcher-download.herokuapp.com/sitemap/sitemap.xml
